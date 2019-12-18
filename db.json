@@ -3,9 +3,9 @@
     { "id": 1, "modelId": 1, "dateAdd": "03.13.2019", 
       "views": 150, "viewsWeek": 70, "status": true, 
       "pictures": {
-        "1": {"url": "https://sun7-3.userapi.com/c635101/v635101770/5630a/VVwhsj37C2k.jpg", "id": "1"}, 
-        "2": {"url": "https://pp.userapi.com/c635101/v635101770/562cc/Yzb5tzgAUkY.jpg", "id": "2"}, 
-        "3": {"url": "https://pp.userapi.com/c635101/v635101770/562a2/ltzB6w2qmlg.jpg", "id": "3"}
+        "1": {"url": "https://fotogora.ru/wp-content/uploads/2013/07/model_portret3.jpg", "id": "1"}, 
+        "2": {"url": "http://vsenafoto.ru/uploads/W/m/dSUUg1MWdBODI5Um5W.jpg", "id": "2"}, 
+        "3": {"url": "http://vsenafoto.ru/uploads/N/U/dxdVRSUEY5QXUyZjMx.jpg", "id": "3"}
       },
       "publicOrder": ["1", "2"],
       "privateOrder": ["3"]
@@ -13,8 +13,8 @@
     { "id": 2, "modelId": 2, "dateAdd": "03.23.2019", 
       "views": 170, "viewsWeek": 50, "status": true, 
       "pictures": {
-         "4": {"url": "https://pp.userapi.com/c635101/v635101770/56239/tihWKt8vP9c.jpg", "id": "4"}, 
-         "5": {"url": "https://sun7-2.userapi.com/c635101/v635101770/56227/3TOkjDYEOtc.jpg", "id": "5"}
+         "4": {"url": "http://vsenafoto.ru/uploads/Z/2/9MWHVDYWpnTG9SVFVl.jpg", "id": "4"}, 
+         "5": {"url": "http://vsenafoto.ru/uploads/b/W/13NHd1VVhjRUIxZzZR.jpg", "id": "5"}
       },
       "publicOrder": ["4"],
       "privateOrder": ["5"]
@@ -22,8 +22,8 @@
     { "id": 3, "modelId": 3, "dateAdd": "04.08.2019", 
       "views": 190, "viewsWeek": 80, "status": true, 
       "pictures": {
-        "6": {"url": "https://pp.userapi.com/c635101/v635101770/56215/slcbTdIHZGA.jpg", "id": "6"}, 
-        "7": {"url": "https://pp.userapi.com/c635101/v635101770/5615a/GvNsLEiVX8Y.jpg", "id": "7"}
+        "6": {"url": "http://vsenafoto.ru/uploads/Z/3/499_FPT2NSdGVObFZMQnBK.jpg", "id": "6"}, 
+        "7": {"url": "http://vsenafoto.ru/uploads/a/H/pna1NtdmlHMW5mVDVD.jpg", "id": "7"}
       },
       "publicOrder": ["6", "7"],
       "privateOrder": []
@@ -31,7 +31,7 @@
     { "id": 4, "modelId": 1, "dateAdd": "04.17.2019", 
       "views": 130, "viewsWeek": 90, "status": false, 
       "pictures": {
-        "8": {"url": "https://pp.userapi.com/c635101/v635101770/560b7/gRBj74-_qBI.jpg", "id": "8"}
+        "8": {"url": "http://vsenafoto.ru/uploads/N/W/499_VyUmpiY1czemU0UXN0.jpg", "id": "8"}
       },
       "publicOrder": ["8"],
       "privateOrder": []
@@ -39,23 +39,23 @@
     { "id": 5, "modelId": 4, "dateAdd": "05.06.2019", 
       "views": 140, "viewsWeek": 60, "status": true, 
       "pictures": {
-        "9": {"url": "https://sun7-3.userapi.com/c850132/v850132648/14943c/iixgwdLXlrE.jpg", "id": "9"}
+        "9": {"url": "http://vsenafoto.ru/uploads/d/1/499_NPSkJFdDBBSm1KZWFs.jpg", "id": "9"}
       },
       "publicOrder": ["9"],
       "privateOrder": []
     }
   ],
   "models": [
-    { "name": "Lean Graham", "id": 1, "modelAvatar": "https://pp.userapi.com/c851016/v851016571/143867/KRjf4zmKFps.jpg",
+    { "name": "Lean Graham", "id": 1, "modelAvatar": "http://vsenafoto.ru/uploads/Z/3/499_h1NFJkTE1hTHZYeDhj.jpg",
       "age": 19 , "weight": 42, "height": 168, "nationality": "russian", "releases": 1
     },
-    { "name": "Ervina Howell", "id": 2, "modelAvatar": "https://pp.userapi.com/c849532/v849532433/1b2034/xyq93A6rnbw.jpg",
+    { "name": "Ervina Howell", "id": 2, "modelAvatar": "http://vsenafoto.ru/uploads/a/T/499_ZXbzFCWnBVZXV3Z1Fj.jpg",
       "age": 20, "weight": 50, "height": 170, "nationality": "", "releases": 1
     },
-    { "name": "Victoria Plains", "id": 3, "modelAvatar": "https://pp.userapi.com/c849432/v849432122/1412e/ZKFJMsuxtio.jpg",
+    { "name": "Victoria Plains", "id": 3, "modelAvatar": "http://vsenafoto.ru/uploads/U/k/499_pKbUZ3ZmpTcHRvVXRE.jpg",
       "age": "", "weight": "", "height": "", "nationality": "", "releases": 1
     },
-    { "name": "Clementina Bauch", "id": 4, "modelAvatar": "https://pp.userapi.com/c604621/v604621942/4e7ed/SqGdPsSSKi4.jpg",
+    { "name": "Clementina Bauch", "id": 4, "modelAvatar": "http://vsenafoto.ru/uploads/Q/z/499_FHZTc3ME5FSnd5RUpp.jpg",
       "age": 22, "weight": 46, "height": "", "nationality": "", "releases": 1
     }
   ] 
